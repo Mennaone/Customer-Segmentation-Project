@@ -30,46 +30,46 @@ This project aims to segment customers based on their transactional behavior and
 ## Key Findings
 ### Segment Analysis and Recommendations
 #### Segment 0:
-    - Average Transaction Count: 5.2
-    - Average Recency (days): 30.5
-    - Average Claimed Coupons: 3.1
-    - Average Burnt Coupons: 2.8
-    -Recommendation: Offer exclusive discounts and loyalty rewards to retain these customers.
+- Average Transaction Count: 5.2
+- Average Recency (days): 30.5
+- Average Claimed Coupons: 3.1
+- Average Burnt Coupons: 2.8
+-Recommendation: Offer exclusive discounts and loyalty rewards to retain these customers.
 
 #### Segment 1:
-    - Average Transaction Count: 2.3
-    - Average Recency (days): 90.2
-    - Average Claimed Coupons: 1.5
-    - Average Burnt Coupons: 0.8
-    - Recommendation: Send reminders and limited-time offers to encourage coupon usage.
+- Average Transaction Count: 2.3
+- Average Recency (days): 90.2
+- Average Claimed Coupons: 1.5
+- Average Burnt Coupons: 0.8
+- Recommendation: Send reminders and limited-time offers to encourage coupon usage.
 
 #### Segment 2:
-    - Average Transaction Count: 8.7
-    - Average Recency (days): 15.4
-    - Average Claimed Coupons: 6.5
-    - Average Burnt Coupons: 6.0
-    - Recommendation: Provide loyalty rewards and personalized recommendations.
+- Average Transaction Count: 8.7
+- Average Recency (days): 15.4
+- Average Claimed Coupons: 6.5
+- Average Burnt Coupons: 6.0
+- Recommendation: Provide loyalty rewards and personalized recommendations.
 
 #### Segment 3:
-    - Average Transaction Count: 1.1
-    - Average Recency (days): 120.7
-    - Average Claimed Coupons: 0.5
-    - Average Burnt Coupons: 0.2
-    - Recommendation: Implement targeted marketing campaigns and special offers to increase activity.
+- Average Transaction Count: 1.1
+- Average Recency (days): 120.7
+- Average Claimed Coupons: 0.5
+- Average Burnt Coupons: 0.2
+- Recommendation: Implement targeted marketing campaigns and special offers to increase activity.
 
 #### Segment 4:
-    - Average Transaction Count: 4.0
-    - Average Recency (days): 45.0
-    - Average Claimed Coupons: 2.0
-    - Average Burnt Coupons: 1.5
-    - Recommendation: Offer seasonal promotions and loyalty programs to maintain engagement.
+- Average Transaction Count: 4.0
+- Average Recency (days): 45.0
+- Average Claimed Coupons: 2.0
+- Average Burnt Coupons: 1.5
+- Recommendation: Offer seasonal promotions and loyalty programs to maintain engagement.
 
 #### Segment 5:
-    - Average Transaction Count: 6.0
-    - Average Recency (days): 25.0
-    - Average Claimed Coupons: 4.0
-    - Average Burnt Coupons: 3.5
-    - Recommendation: Provide exclusive access to new products and special events to reward loyalty.
+- Average Transaction Count: 6.0
+- Average Recency (days): 25.0
+- Average Claimed Coupons: 4.0
+- Average Burnt Coupons: 3.5
+- Recommendation: Provide exclusive access to new products and special events to reward loyalty.
 
 ### Conclusion
 This project successfully segmented customers into six distinct groups based on their transactional behavior and demographic features. By understanding the characteristics of each segment, we can develop targeted strategies to increase customer loyalty and satisfaction through personalized coupon offers and marketing campaigns.
